@@ -1,5 +1,5 @@
 # PythonForDevOps
-Completing the exercises from "Python for DevOps"  
+Completing the exercises from ["Python for DevOps"](http://shop.oreilly.com/product/0636920274902.do)  
 Note: Not every chapter has coding questions
 
 # Chapter 1
