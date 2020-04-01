@@ -1,0 +1,6 @@
+#Configure the environment variable for small.py
+#$env:FLASK_APP = "small.py" in PS, FLASK_APP=small.py in Linux
+#Will require pip3 install flask first
+#I ran flask from the directory containing load_test.py & small.py
+
+flask run

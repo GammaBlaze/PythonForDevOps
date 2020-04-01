@@ -1,0 +1,5 @@
+#Molotov command to run 10 tests via 1 worker against small.py
+#Will require pip3 install molotov first
+#I ran this from the directory containing load_test.py & small.py
+
+molotov -v -r 10 --processes 1 load_test.py
